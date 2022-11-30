@@ -2,10 +2,11 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-![keras](https://img.shields.io/badge/-Keras-red)
-![Pytorch](https://img.shields.io/badge/-PyTorch-orange)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-red?style=flat-square&logo=opencv&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white)
